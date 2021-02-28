@@ -6,4 +6,6 @@
 
 _Engineering is one way I express my thoughts into tangible things, but it doesn't define my humanity._
 
+<!---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aniravi24&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
