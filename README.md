@@ -1,6 +1,6 @@
-I’m fascinated by statically-typed languages that encourage functional programming paradigms, such as Haskell.
+Code should be more maintainable and robust.
 
-I also love solutions that can reach a wider audience. For example, I believe [effect-ts](https://github.com/Effect-TS) is the most important underrated set of libraries within the TypeScript ecosystem.
+Right now, I'm mostly trying to do this in TypeScript with [effect-ts](https://github.com/Effect-TS), the most important underrated set of libraries within the TypeScript ecosystem.
 
 Computers were built to aid us - naturally, they should help us build better programs. I care about building robust, maintainable software, and am motivated by hard problems, not building the next cool widget.
 
