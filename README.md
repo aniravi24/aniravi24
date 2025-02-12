@@ -1,6 +1,8 @@
-Code should be more maintainable and robust.
+## Hi there 👋
 
-Right now, I'm mostly trying to do this in TypeScript with [effect-ts](https://github.com/Effect-TS), the most important underrated set of libraries within the TypeScript ecosystem.
+I'm Ani. My obsession is building great products, and consequently, great product/engineering teams.
+
+I'm a fan of ideas that come from statically-typed functional programming, and open-source software (my current favorite library ecosystem is [Effect-TS](https://effect.website/) for TypeScript).
 
 Computers were built to aid us - naturally, they should help us build better programs. I care about building robust, maintainable software, and am motivated by hard problems, not building the next cool widget.
 
