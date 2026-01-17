@@ -6,7 +6,7 @@ I like statically typed functional programming and open-source software (my curr
 
 Computers were built to aid us - naturally, they should help us make better software.
 
-Currently co-founder and CTO at [GP-LP Match](https://gplpmatch.com)
+Currently co-founder and CTO at [GP-LP Match](https://gplpmatch.com).
 
 <!---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aniravi24&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
